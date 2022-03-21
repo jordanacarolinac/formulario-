@@ -1,0 +1,33 @@
+* { 
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+
+    color: #3F3D56; 
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    font-size:37px ;
+    margin-right: 100px;
+    margin-bottom: 22px;
+    font-weight: 700px;
+
+}
+
+.label-filde {
+    font-size: 14px; 
+
+}
+
+.box {
+    display:flex;
+    flex-direction: column;
+}
